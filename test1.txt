@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 4EAB-D033
+
+ Directory of C:\Users\JCS\Downloads\SJ\Sample repository
+
+07/21/2022  04:21 PM    <DIR>          .
+07/21/2022  04:21 PM    <DIR>          ..
+07/21/2022  04:21 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   1,009,590,272 bytes free
